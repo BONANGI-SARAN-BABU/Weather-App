@@ -1,4 +1,3 @@
-# Cloud_Point
-API based Weather App
+# Weather_App
 
-Built the Weather App: Used Frontend ,Backend and it is API based application for real time weather information. 
+### Built Using Frontend ,Backend and it is API based application for real time weather information. 
